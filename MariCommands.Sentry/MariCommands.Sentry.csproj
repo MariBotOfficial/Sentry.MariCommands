@@ -20,7 +20,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="MariCommands" Version="1.0.0-beta" />
+    <PackageReference Include="MariCommands" Version="1.0.0.6-alpha" />
     <PackageReference Include="Sentry.Extensions.Logging" Version="2.1.6" />
   </ItemGroup>
 
