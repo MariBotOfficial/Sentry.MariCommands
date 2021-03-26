@@ -21,7 +21,7 @@
 
   <ItemGroup>
     <PackageReference Include="MariCommands" Version="1.0.0.6-alpha" />
-    <PackageReference Include="Sentry.Extensions.Logging" Version="2.1.8" />
+    <PackageReference Include="Sentry.Extensions.Logging" Version="3.2.0" />
   </ItemGroup>
 
   <ItemGroup>
